@@ -4,4 +4,12 @@ GUI version of MetaMail, an off-Grid E-Mail Service with SHA-256 Password Encryp
 ![image](https://raw.githubusercontent.com/Arduino3128/MetaMail/master/MetaMail%20Logo.png)
    
 ## What's New?  
-New GUI for MetaMail
+New GUI for MetaMail  
+  
+#### ~Release(MRV 1.6alpha)  
+Fixed Typo  
+Fixed Keyword Error  
+  
+#### ~Release(MRV 1.5alpha)  
+Fixed Update Bug
+Fixed Keyword Errors 
