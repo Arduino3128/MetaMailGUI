@@ -6,10 +6,10 @@ GUI version of MetaMail, an off-Grid E-Mail Service with SHA-256 Password Encryp
 ## What's New?  
 New GUI for MetaMail  
   
-#### ~Release(MRV 1.6alpha)  
+### ~Release(MRV 1.6alpha)  
 Fixed Typo  
 Fixed Keyword Error  
   
-#### ~Release(MRV 1.5alpha)  
+### ~Release(MRV 1.5alpha)  
 Fixed Update Bug  
 Fixed Keyword Errors   
