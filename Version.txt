@@ -1,2 +1,2 @@
-Info:First stable release
-MRV 1.5alpha
+Info:Fixed Minor Issue
+MRV 1.6alpha
