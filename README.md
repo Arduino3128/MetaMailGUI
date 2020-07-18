@@ -13,3 +13,8 @@ Fixed Keyword Error
 ### ~Release(MRV 1.5alpha)  
 Fixed Update Bug  
 Fixed Keyword Errors   
+
+  
+### ~Release(MRV 1.7alpha)
+Fixed Mail Sending Bug
+Fixed Blank friend addition  
