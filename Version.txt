@@ -1,2 +1,2 @@
-Info:PLEASE UPDATE,A MAJOR BUG HAS BEEN FIXED!
-MRV 1.7alpha
+Info: Optional Update, Fixed Minor Bugs
+MRV 1.7beta
