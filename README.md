@@ -5,6 +5,10 @@ GUI version of MetaMail, an off-Grid E-Mail/Chat Service with SHA-256 Password E
    
 ## What's New?  
 New GUI for MetaMail  
+  
+### ~Release(MRV 1.7beta)  
+Fixed Login Bug  
+Fixed Typo  
 
 ### ~Release(MRV 1.7alpha)  
 Fixed Mail Sending Bug  
