@@ -8,6 +8,10 @@ Reply and Forward button
 Updated Security patches  
 New GUI for MetaMail    
 
+### ~Release(MRV 2.1)  
+Fixed Minor Bugs  
+Fixed Typo  
+Added File Attachment size Upgrade option  
 
 ### ~Release(MRV 2.0)  
 First Stable release  
